@@ -1,6 +1,6 @@
 # Rest-API
 
-API create, read e delete usando alguns projetos do ecossistema Spring, como Spring Boot e Spring Data JPA.
+APIRest CRUD - Create, read e delete usando alguns projetos do ecossistema Spring, como Spring Boot e Spring Data JPA.
 
 
 
